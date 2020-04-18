@@ -243,3 +243,15 @@ static const float3 BORDER_SUN_DIRECTION = float3(-0.2, 0.9, 0.1);
 //static const float3 BORDER_SUN_DIRECTION = float3(-0.1, 0.5, 0.0);
 //static const float3 BORDER_SUN_DIRECTION = float3(0.2, 0.5, 0.0);
 ]]
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
