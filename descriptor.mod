@@ -3,5 +3,5 @@ tags={
 	"Graphics"
 }
 name="Puupi's Map Mod"
-supported_version="1.10.8"
+supported_version="1.11.2"
 remote_file_id="2065810343"
